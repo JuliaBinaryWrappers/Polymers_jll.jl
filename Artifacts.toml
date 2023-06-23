@@ -1,0 +1,88 @@
+[[Polymers]]
+arch = "aarch64"
+git-tree-sha1 = "46124ef90f74df7f3e1c73419f26dd4648123cad"
+os = "macos"
+
+    [[Polymers.download]]
+    sha256 = "b220472b253e55186c8db7e5e9bf8b0abf94f54240626b82113f8e5197d59667"
+    url = "https://github.com/JuliaBinaryWrappers/Polymers_jll.jl/releases/download/Polymers-v0.3.6+0/Polymers.v0.3.6.aarch64-apple-darwin.tar.gz"
+[[Polymers]]
+arch = "aarch64"
+git-tree-sha1 = "47f64c4e8bcd2321b939e94825ca3867381a6105"
+libc = "glibc"
+os = "linux"
+
+    [[Polymers.download]]
+    sha256 = "4443a5742236ce8acf8ee981f43c5eb3bad90328fcd58e6716e34c8f81f877bc"
+    url = "https://github.com/JuliaBinaryWrappers/Polymers_jll.jl/releases/download/Polymers-v0.3.6+0/Polymers.v0.3.6.aarch64-linux-gnu.tar.gz"
+[[Polymers]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "382399241b7532640b7b5a3a898dfeea3ac90986"
+libc = "glibc"
+os = "linux"
+
+    [[Polymers.download]]
+    sha256 = "e74a77cf024370cfdade52400f2601311a3f5c9295e8a2acf9203770cb2cc181"
+    url = "https://github.com/JuliaBinaryWrappers/Polymers_jll.jl/releases/download/Polymers-v0.3.6+0/Polymers.v0.3.6.armv6l-linux-gnueabihf.tar.gz"
+[[Polymers]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "40a9046252b6c45c00d954119362994297fabc3a"
+libc = "glibc"
+os = "linux"
+
+    [[Polymers.download]]
+    sha256 = "e9cee3572e335e3ba773900814f695a7a2f704fe4f31062f99ae62c428555e1b"
+    url = "https://github.com/JuliaBinaryWrappers/Polymers_jll.jl/releases/download/Polymers-v0.3.6+0/Polymers.v0.3.6.armv7l-linux-gnueabihf.tar.gz"
+[[Polymers]]
+arch = "i686"
+git-tree-sha1 = "1ca4eb3b42bce6dae3272e6eface0e9e809f8e04"
+libc = "glibc"
+os = "linux"
+
+    [[Polymers.download]]
+    sha256 = "eb876d1868307e40b75c23d0cf2fa34b03834ae2123606267d96b2e6230e955b"
+    url = "https://github.com/JuliaBinaryWrappers/Polymers_jll.jl/releases/download/Polymers-v0.3.6+0/Polymers.v0.3.6.i686-linux-gnu.tar.gz"
+[[Polymers]]
+arch = "powerpc64le"
+git-tree-sha1 = "0ec62693f5701a97f385307bec9ad308af50292a"
+libc = "glibc"
+os = "linux"
+
+    [[Polymers.download]]
+    sha256 = "e221cb74d016d676cc3b362b97642190b37f03da016b0adfebb9dd8db1e60137"
+    url = "https://github.com/JuliaBinaryWrappers/Polymers_jll.jl/releases/download/Polymers-v0.3.6+0/Polymers.v0.3.6.powerpc64le-linux-gnu.tar.gz"
+[[Polymers]]
+arch = "x86_64"
+git-tree-sha1 = "abe4ee28e270e76d4614370917a42979b33941b8"
+os = "macos"
+
+    [[Polymers.download]]
+    sha256 = "963eaed0b831a3d0ae54aa371c4a609274bc155fa480f49e1e295eea012c25a8"
+    url = "https://github.com/JuliaBinaryWrappers/Polymers_jll.jl/releases/download/Polymers-v0.3.6+0/Polymers.v0.3.6.x86_64-apple-darwin.tar.gz"
+[[Polymers]]
+arch = "x86_64"
+git-tree-sha1 = "68db501db88ba6da5ecf7e9c2d2cffdf0f6f81ab"
+libc = "glibc"
+os = "linux"
+
+    [[Polymers.download]]
+    sha256 = "bad0a070c3ad36c7c6a7ce1bf558fc73ce910264df42dbfbc70974d4b7240718"
+    url = "https://github.com/JuliaBinaryWrappers/Polymers_jll.jl/releases/download/Polymers-v0.3.6+0/Polymers.v0.3.6.x86_64-linux-gnu.tar.gz"
+[[Polymers]]
+arch = "x86_64"
+git-tree-sha1 = "03206f31370b52b4d4b7127c08c7e1ee95e41d8c"
+os = "freebsd"
+
+    [[Polymers.download]]
+    sha256 = "098f7df6651cc45e5b77edabce01c66150585aeabb4db30baa04b38a15d9772c"
+    url = "https://github.com/JuliaBinaryWrappers/Polymers_jll.jl/releases/download/Polymers-v0.3.6+0/Polymers.v0.3.6.x86_64-unknown-freebsd.tar.gz"
+[[Polymers]]
+arch = "x86_64"
+git-tree-sha1 = "c842610403fbe780fed4e3405c45d6853c896fc5"
+os = "windows"
+
+    [[Polymers.download]]
+    sha256 = "278a225397b71f2d1d0d2c7440144ceaad30d3ca8c255087128c9de2625e7447"
+    url = "https://github.com/JuliaBinaryWrappers/Polymers_jll.jl/releases/download/Polymers-v0.3.6+0/Polymers.v0.3.6.x86_64-w64-mingw32.tar.gz"
